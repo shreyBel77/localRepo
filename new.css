@@ -2,4 +2,5 @@ p{
     color: aquamarine;
     text-align: center;
     text-decoration: dashed;
+    text-transform: capitalize;
 }
